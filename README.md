@@ -1,4 +1,4 @@
-readme_content = """# Hi there, I'm Aman Sharma 👋
+# Hi there, I'm Aman Sharma 👋
 
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=amansharma-dev&label=Profile%20views&color=0e75b6&style=flat" alt="Profile views" />
@@ -66,9 +66,3 @@ readme_content = """# Hi there, I'm Aman Sharma 👋
     <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
   </a>
 </p>
-"""
-
-with open("README.md", "w", encoding="utf-8") as f:
-    f.write(readme_content.strip() + "\n")
-
-print("README.md generated successfully!")

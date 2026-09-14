@@ -54,15 +54,13 @@
 
 ### 📈 GitHub Analytics
 
-> **Note:** Replace `amansharma-dev` with your exact GitHub handle in the URLs below if your username is different.
-
 <p align="center">
-  <img src="https://github-readme-stats-sigma-five.vercel.app/api?username=amansharma-dev&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true" width="48%" alt="GitHub Stats" />
-  <img src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=amansharma-dev&layout=compact&theme=tokyonight&hide_border=true&langs_count=8" width="48%" alt="Top Languages" />
+  <img src="https://github-readme-stats-sigma-five.vercel.app/api?username=Aetherion-S&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true" width="48%" alt="GitHub Stats" />
+  <img src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=Aetherion-S&layout=compact&theme=tokyonight&hide_border=true&langs_count=8" width="48%" alt="Top Languages" />
 </p>
 
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=amansharma-dev&theme=tokyonight&hide_border=true" alt="GitHub Streak" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Aetherion-S&theme=tokyonight&hide_border=true" alt="GitHub Streak" />
 </p>
 
 ---

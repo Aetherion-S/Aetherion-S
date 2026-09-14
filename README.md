@@ -1,68 +1,84 @@
-# Hi there, I'm Aman Sharma 👋
+<div align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=1,11,21&height=200&section=header&text=Aman%20Sharma&fontSize=65&fontColor=ffffff&animation=twinkling" width="100%" alt="Header Banner" />
+</div>
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=amansharma-dev&label=Profile%20views&color=0e75b6&style=flat" alt="Profile views" />
-</p>
-
----
-
-### 🚀 About Me
-
-- 🎓 **Education:** 3rd Year B.Tech student at **Dronacharya Group of Institutions, Greater Noida** *(Affiliated to Dr. A. P. J. Abdul Kalam Technical University, Lucknow)*.
-- 💻 **Expertise:** Passionate **Full Stack Developer** building responsive, scalable web applications and intuitive digital experiences.
-- 🌱 **Currently exploring:** Advanced React architectures, microservices with Django REST Framework, and cloud deployments.
-- 💬 **Ask me about:** Python, Django, React, Full-stack architecture, and Data Structures & Algorithms.
-- 📫 **How to reach me:** [amsha260696@gmail.com](mailto:amsha260696@gmail.com)
-
----
-
-### 🛠️ Tech Stack & Skills
-
-#### **Languages**
-<p>
-  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python" />
-  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" alt="JavaScript" />
-  <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white" alt="Java" />
-  <img src="https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white" alt="C++" />
-  <img src="https://img.shields.io/badge/C-A8B9CC?style=for-the-badge&logo=c&logoColor=black" alt="C" />
-  <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" alt="HTML5" />
-  <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" alt="CSS3" />
-</p>
-
-#### **Frameworks, Libraries & Tools**
-<p>
-  <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" alt="React" />
-  <img src="https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white" alt="Django" />
-  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" alt="Git" />
-  <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
-  <img src="https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white" alt="VS Code" />
-</p>
-
----
-
-### 📊 GitHub Activity & Stats
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=YOUR_GITHUB_USERNAME&show_icons=true&theme=radical&hide_border=true&count_private=true" alt="GitHub Stats" width="48%" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_GITHUB_USERNAME&layout=compact&theme=radical&hide_border=true" alt="Top Languages" width="48%" />
+  <a href="https://github.com/amansharma-dev">
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=20&duration=3000&pause=1000&color=38BDF8&center=true&vCenter=true&width=500&lines=Full+Stack+Developer;React.js+%26+Django+Specialist;Passionate+Problem+Solver" alt="Typing SVG" />
+  </a>
 </p>
 
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=YOUR_GITHUB_USERNAME&theme=radical&hide_border=true" alt="GitHub Streak" />
+  <img src="https://komarev.com/ghpvc/?username=amansharma-dev&label=Profile%20Views&color=0284c7&style=flat-square" alt="Profile Views" />
 </p>
 
 ---
 
-### 📬 Connect with Me
+### 👨‍💻 About Me
 
+- 🎓 **Education:** 3rd Year B.Tech student at **Dronacharya Group of Institutions, Greater Noida** *(Affiliated to Dr. A. P. J. Abdul Kalam Technical University, Lucknow)*
+- 💡 **Core Focus:** Full-Stack Architecture, Clean Code, Scalable APIs
+- 🔭 **Current Focus:** Advanced React systems, RESTful microservices with Django, and backend optimization
+- ⚡ **Strengths:** Translating complex business logic into clean, responsive web solutions
+- 📫 **Get in touch:** [amsha260696@gmail.com](mailto:amsha260696@gmail.com)
+
+---
+
+### 🛠️ Skills & Technologies
+
+<div align="center">
+
+#### **Frontend Development**
 <p>
+  <img src="https://skillicons.dev/icons?i=react,js,html,css&theme=dark" alt="Frontend Stack" />
+</p>
+
+#### **Backend Development**
+<p>
+  <img src="https://skillicons.dev/icons?i=django,py&theme=dark" alt="Backend Stack" />
+</p>
+
+#### **Core Languages & Foundations**
+<p>
+  <img src="https://skillicons.dev/icons?i=python,java,cpp,c&theme=dark" alt="Programming Languages" />
+</p>
+
+#### **Tools & Environments**
+<p>
+  <img src="https://skillicons.dev/icons?i=git,github,vscode,postman&theme=dark" alt="Tools" />
+</p>
+
+</div>
+
+---
+
+### 📈 GitHub Analytics
+
+> **Note:** Replace `amansharma-dev` with your exact GitHub handle in the URLs below if your username is different.
+
+<p align="center">
+  <img src="https://github-readme-stats-sigma-five.vercel.app/api?username=amansharma-dev&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true" width="48%" alt="GitHub Stats" />
+  <img src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=amansharma-dev&layout=compact&theme=tokyonight&hide_border=true&langs_count=8" width="48%" alt="Top Languages" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=amansharma-dev&theme=tokyonight&hide_border=true" alt="GitHub Streak" />
+</p>
+
+---
+
+### 🌐 Let's Connect
+
+<p align="center">
   <a href="mailto:amsha260696@gmail.com">
     <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail" />
   </a>
-  <a href="https://linkedin.com/in/YOUR-LINKEDIN" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
+  &nbsp;
+  <a href="https://linkedin.com/in/amsha3482/" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
   </a>
-  <a href="https://github.com/YOUR_GITHUB_USERNAME" target="_blank">
+  &nbsp;
+  <a href="https://github.com/amansharma-dev" target="_blank">
     <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
   </a>
 </p>

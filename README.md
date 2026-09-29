@@ -3,13 +3,13 @@
 </div>
 
 <p align="center">
-  <a href="https://github.com/amansharma-dev">
+  <a href="https://github.com/Aetherion-S">
     <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=20&duration=3000&pause=1000&color=38BDF8&center=true&vCenter=true&width=500&lines=Full+Stack+Developer;React.js+%26+Django+Specialist;Passionate+Problem+Solver" alt="Typing SVG" />
   </a>
 </p>
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=amansharma-dev&label=Profile%20Views&color=0284c7&style=flat-square" alt="Profile Views" />
+  <img src="https://komarev.com/ghpvc/?username=Aetherion-S&label=Profile%20Views&color=0284c7&style=flat-square" alt="Profile Views" />
 </p>
 
 ---
@@ -65,6 +65,18 @@
 
 ---
 
+### 🐍 Contribution Activity
+
+<div align="center">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Aetherion-S/Aetherion-S/output/github-contribution-grid-snake-dark.svg" />
+    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Aetherion-S/Aetherion-S/output/github-contribution-grid-snake.svg" />
+    <img alt="GitHub Contribution Snake" src="https://raw.githubusercontent.com/Aetherion-S/Aetherion-S/output/github-contribution-grid-snake.svg" />
+  </picture>
+</div>
+
+---
+
 ### 🌐 Let's Connect
 
 <p align="center">
@@ -76,9 +88,7 @@
     <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
   </a>
   &nbsp;
-  <a href="https://github.com/amansharma-dev" target="_blank">
+  <a href="https://github.com/Aetherion-S" target="_blank">
     <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
   </a>
 </p>
-
-
